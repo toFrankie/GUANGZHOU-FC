@@ -1,2 +1,1 @@
-# GUANGZHOU-FC
-广州未赢够
+![](./images/logo.png)
